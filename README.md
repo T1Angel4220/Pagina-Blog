@@ -177,18 +177,3 @@ Para evaluar las funciones del panel administrativo:
 > *Nota: También puedes registrar nuevos usuarios lectores directamente desde el botón "Register" del portal público.*
 
 ---
-
-## 🎯 Próximas Mejoras (Roadmap)
-
-- [ ] Migrar el algoritmo de hashing de contraseñas de `sha1` a `password_hash()` con algoritmo `BCRYPT` / `ARGON2ID`.
-- [ ] Incorporar paginación asíncrona en el listado de posts.
-- [ ] Integrar un editor de texto enriquecido (WYSIWYG) como TinyMCE o Quill para la redacción de contenidos.
-- [ ] Implementar soporte para subida de avatares de perfil.
-
----
-
-## 👤 Autor
-
-* **Angel Ayuquina**
-* **GitHub:** [@T1Angel4220](https://github.com/T1Angel4220)
-* **Objetivo:** Proyecto desarrollado para portafolio profesional de desarrollo web.
